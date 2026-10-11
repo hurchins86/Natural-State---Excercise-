@@ -1,0 +1,4 @@
+commonName,n_observations,n_incorrect,n_correct,intercept,slope,observation_threshold_99,threshold_status
+Abyssinian Nightjar,150,33,117,3.159087762625033,2.0722895283481413,0.6666270360662416,Within observed range
+Red-billed Firefinch,101,95,6,-1.4594237085277348,0.9416735646445711,0.998389432289361,Outside observed range
+Three-banded Plover,150,1,149,5.169957788827735,0.5474196941258256,0.2592085230404002,Within observed range
