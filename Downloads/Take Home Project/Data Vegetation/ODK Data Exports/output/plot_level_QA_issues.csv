@@ -1,3 +1,0 @@
-plot_selection-selected_plot_uuid,plot_name,plot_status,survey_records,quadrats_recorded,survey_submission_status,survey_review_state,quadrats_with_species,multiple_survey_records_flag,no_quadrat_records_flag,qa_issue_flag
-8070570d-64ca-405a-802d-4d721fdc2fe9,SavMon_LW_Plot_21,,2,40,,rejected,40,True,False,True
-a5b642c6-e8ba-4186-a1d3-5ff99852e8b0,SavMon_LW_Plot_18,,2,40,,rejected,40,True,False,True
